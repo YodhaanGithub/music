@@ -1,0 +1,17 @@
+
+body {
+    background-size: cover;
+}
+.heading{
+width: 100%;
+margin: 0px;  
+font-size: 23px;
+}
+
+.note{
+    color: blanchedalmond;
+}
+
+.but {
+    font-size: 15px
+}
